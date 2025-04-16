@@ -1,112 +1,148 @@
 {
   "seller": [
     {
-      "id": "d8cf",
-      "name": "Max",
-      "email": "Max@google.de",
-      "password": "123@abd"
+      "name": "Hoji",
+      "password": "Hajime_2005",
+      "email": "Hoji@admin.tj",
+      "id": 1
     }
   ],
   "products": [
     {
-      "id": "6217",
-      "name": "SONY PlayStation®5",
-      "category": "gaming console",
-      "color": "white",
-      "price": "499",
-      "description": "SONY PlayStation®5 - ASTRO BOT-Bundle (Modellgruppe - Slim)*",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151215268?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "name": "кепка Polo Ralph Lauren",
+      "category": "кепка ",
+      "color": "бежевый",
+      "price": "90",
+      "description": "кепка Polo Ralph Lauren Реплика, хорошее качество",
+      "url": "https://cdn.braun-hamburg.com/media/catalog/product/cache/872820d76c3969f0c403944b0a276507/9/5/9500_066013_9950_polo-ralph-lauren-accessoire_001_p.1740485427.jpg",
+      "id": 1
     },
     {
-      "id": "ab32",
-      "name": "SAMSUNG Galaxy Book4",
-      "category": "laptop",
-      "color": "grey",
-      "price": "509",
-      "description": "Notebook, mit 15,6 Zoll Display, Intel® Core™ 3,100U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Core™ Onboard Graphics, Gray, Windows 11 Home (64 Bit)",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_137384302?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "name": "Кожаные кеды",
+      "category": "кеды",
+      "color": "чёрный",
+      "price": "480",
+      "description": "Кожаные кеды снова в нлачии🔥\n🏷️480с\nДля заказа пищите в direct 📦доставка имеется",
+      "url": "https://iili.io/30BbcPV.jpg",
+      "id": 2
     },
     {
-      "id": "ee8e",
-      "name": "Gaming PC KIEBEL Titan V ",
-      "category": "PC",
-      "color": "black",
-      "price": "1219",
-      "description": "KIEBEL Titan V AMD Ryzen 7 5800X, Gaming PC mit AMD Ryzen™ 7 Ryzen 7 5800X Prozessor, 64 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060 Ti, Windows 11 Home (64 Bit)",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_135363622?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "name": "Футболки adidas",
+      "category": "футболка",
+      "color": "разные цвета",
+      "price": "200",
+      "description": "Новые оригинальныеФутболки \"adidas\"",
+      "url": "https://iili.io/30BbnP2.jpg",
+      "id": 3
     },
     {
-      "id": "6669",
-      "name": "APPLE AirPods Pro (2. Generation) ",
-      "category": "headphone",
-      "color": "black",
-      "price": "235",
-      "description": "APPLE AirPods Pro (2. Generation) mit MagSafe Case (USB‑C), In-ear Kopfhörer Bluetooth White",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_147595172?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "name": "polo T-shirt Lacoste",
+      "category": "polo T-shirt",
+      "color": "разные цвета",
+      "price": "250",
+      "description": "polo T-shirt Lacoste",
+      "url": "https://iili.io/30BbBn4.jpg",
+      "id": 4
     },
     {
-      "id": "c130",
-      "name": "APPLE iPad",
-      "category": "tablet",
-      "color": "silver",
-      "price": "339",
-      "description": "APPLE iPad Wi-Fi (10th generation), Tablet, 64 GB, 10,9 Zoll, Silber\n\n",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_145992782?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "name": "Шлепки Hermes",
+      "category": "шлепки ",
+      "color": "синий",
+      "price": "180",
+      "description": "Кожаннык шлепки Hermes",
+      "url": "https://iili.io/30BbCMl.jpg",
+      "id": 5
     },
     {
-      "id": "4649",
-      "name": "APPLE Watch Series 10 ",
-      "category": "watch",
-      "color": "black",
-      "price": "429",
-      "description": "APPLE Watch Series 10 GPS 46 mm Smartwatch Aluminium Fluorelastomer, 160 - 210 mm, Diamantschwarz",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_144739615?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "name": "BOSS - летние кроссовки",
+      "category": "кроссовки",
+      "color": "разные цвета",
+      "price": "450",
+      "description": "Хит по продажам. BOSS - летние кроссовки ",
+      "url": "https://iili.io/30Bbftf.jpg",
+      "id": 6
     },
     {
-      "id": "95ef",
-      "name": "MEGAPORT Gaming PC",
-      "category": "Gaming PC",
-      "color": "black",
-      "price": "899",
-      "description": "MEGAPORT Gaming PC AMD Ryzen 5 5600, Gaming PC Ryzen™ 5 5600 Prozessor, 32 GB RAM, 1000 GB SSD, AMD Radeon™ RX 7600, Windows 11 Home (64 Bit)",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_142058919?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "name": "BOSS - летние кроссовки",
+      "category": "кроссовки",
+      "color": "разные цвета",
+      "price": "500",
+      "description": "Хит по продажам. BOSS - летние кроссовки ",
+      "url": "https://iili.io/30BDtwJ.jpg",
+      "id": 7
     },
     {
-      "name": "APPLE iPhone 15",
-      "category": "mobile",
-      "color": "black",
-      "price": "789",
-      "description": "Das iPhone 15 bietet eine beeindruckende Kombination aus Leistung, Design und Kamerafunktionen. Läuft alles flüssig und schnell. Das Display ist hell und farbintensiv, was das Nutzererlebnis verbesser",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_118399966?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402",
-      "id": "24da"
+      "name": "Кепки Loro Piano ",
+      "category": "кепка",
+      "color": "разные цвета",
+      "price": "150",
+      "description": "Кепки Loro Piano на любой вкус и цвет.",
+      "url": "https://iili.io/30BD74I.jpg",
+      "id": 8
     }
   ],
   "users": [
     {
-      "id": "6be2",
-      "name": "Ali Rahimov",
-      "password": "abc@123",
-      "email": "Ali@google.de"
+      "name": "Ali",
+      "password": "Ali_2005",
+      "email": "Ali@user.de",
+      "id": 1
     },
     {
-      "id": "5325",
       "name": "Ali",
-      "password": "abc@123",
-      "email": "Ali@test.de"
+      "password": "Ali_2005",
+      "email": "Ali@user.de",
+      "id": 2
     }
   ],
   "cart": [
     {
-      "id": "d9b4",
-      "name": "SONY PlayStation®5",
-      "category": "gaming console",
-      "color": "white",
-      "price": "499",
-      "description": "SONY PlayStation®5 - ASTRO BOT-Bundle (Modellgruppe - Slim)*",
-      "url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151215268?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402",
+      "name": "Polo Cap",
+      "category": "cap",
+      "color": "all",
+      "price": "90",
+      "description": "Polo cap",
+      "url": "https://cdn.braun-hamburg.com/media/catalog/product/cache/872820d76c3969f0c403944b0a276507/9/5/9500_066013_9950_polo-ralph-lauren-accessoire_001_p.1740485427.jpg",
+      "quantity": 19,
+      "productId": 1,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Кепки Loro Piano ",
+      "category": "кепка",
+      "color": "разные цвета",
+      "price": "150",
+      "description": "Кепки Loro Piano на любой вкус и цвет.",
+      "url": "https://iili.io/30BD74I.jpg",
       "quantity": 1,
-      "productId": "6217",
-      "userId": "5325"
+      "productId": 8,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Кожаные кеды",
+      "category": "кеды",
+      "color": "чёрный",
+      "price": "480",
+      "description": "Кожаные кеды снова в нлачии🔥\n🏷️480с\nДля заказа пищите в direct 📦доставка имеется",
+      "url": "https://iili.io/30BbcPV.jpg",
+      "quantity": 10,
+      "productId": 2,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Кепки Loro Piano ",
+      "category": "кепка",
+      "color": "разные цвета",
+      "price": "150",
+      "description": "Кепки Loro Piano на любой вкус и цвет.",
+      "url": "https://iili.io/30BD74I.jpg",
+      "quantity": 1,
+      "productId": 8,
+      "userId": 1,
+      "id": 4
     }
   ],
   "orders": []
